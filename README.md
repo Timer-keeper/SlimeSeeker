@@ -1,6 +1,6 @@
 # SlimeSeeker
 
-SlimeSeeker 是一个用 Python 编写的、旨在搜索史莱姆区块最多地方。
+SlimeSeeker 是一个用 Python 编写的、旨在搜索一个Minecraft种子中史莱姆区块最多地方。
 
 ## 项目简介
 
