@@ -12,16 +12,16 @@ SlimeSeeker 项目通过特定算法实现对史莱姆方块数目的搜索和�
    ```bash
    git clone https://github.com/Timer-keeper/SlimeSeeker.git
    cd SlimeSeeker
+
 2. 安装依赖：
    ```bash
    pip install -r requirements.txt
 ## 使用方法
-1. 运行主脚本：
 
-使用方法
-运行主脚本：
-```bash
-python main.py
+1. 运行主脚本：
+   ```bash
+   python main.py
+
 2. 根据提示输入需要搜索的区域范围，即可获取史莱姆方块的统计信息。
 
 ## 贡献
