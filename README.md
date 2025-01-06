@@ -35,4 +35,4 @@ SlimeSeeker 项目通过特定算法实现对史莱姆方块数目的搜索和�
 
 ## 许可证
 
-该项目采用 MIT 许可证。详情请参阅 LICENSE 文件。
+该项目采用 GNU General Public License v3.0。详情请参阅 [LICENSE](LICENSE) 文件。
