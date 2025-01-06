@@ -1,10 +1,10 @@
 # SlimeSeeker
 
-SlimeSeeker 是一个用 Python 编写的项目，旨在实现搜索史莱姆方块数目的功能。
+SlimeSeeker 是一个用 Python 编写的、旨在搜索史莱姆区块最多地方。
 
 ## 项目简介
 
-SlimeSeeker 项目通过特定算法实现对史莱姆方块数目的搜索和统计。适用于需要在 Minecraft 中查找特定区域内史莱姆方块的用户。
+SlimeSeeker 项目通过模拟java中的随机数算法实现对史莱姆区块数目的搜索和统计。
 
 ## 安装
 
@@ -16,6 +16,7 @@ SlimeSeeker 项目通过特定算法实现对史莱姆方块数目的搜索和�
 2. 安装依赖：
    ```bash
    pip install -r requirements.txt
+
 ## 使用方法
 
 1. 运行主脚本：
